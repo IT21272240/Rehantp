@@ -16,6 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehantp&show_icons=true&locale=en&layout=compact" alt="re2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehantp&show_icons=true&locale=en" alt="re1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehantp" alt="re3" /></p>
 
 <!--
 **Rehantp/Rehantp** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
